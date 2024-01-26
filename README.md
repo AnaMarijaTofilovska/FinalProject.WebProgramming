@@ -9,14 +9,13 @@ Welcome to wowFood, a user-friendly food ordering website that brings a delightf
 
 - **User-Friendly Interface:** Explore diverse food categories and place orders seamlessly.
 - **Admin Panel:** Manage categories, menus, and orders efficiently.
-- **Secure Authentication:** Protect user data with a robust authentication system.
 - **Responsive Design:** Enjoy a seamless experience across devices.
 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
-- **Database:** MySQL
+- **Database:** MySQL (phpMyAdmin)
 - **Project Management:** Asana
 
 ## Getting Started
