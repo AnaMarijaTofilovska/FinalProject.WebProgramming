@@ -27,13 +27,10 @@ To get started with wowFood, follow these steps:
 2. Navigate to the project directory: `cd wowFood`
 3. Open `index.html` in your preferred web browser.
 
-## Contributing
-
-We welcome contributions! If you'd like to contribute to wowFood, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Issues and Bug Reporting
 
-If you encounter any issues or bugs, please report them on our [Issue Tracker](https://github.com/your-username/wowFood/issues).
+If you encounter any issues or bugs, please report them to us.
 
 ## License
 
