@@ -23,7 +23,7 @@ Welcome to wowFood, a user-friendly food ordering website that brings a delightf
 
 To get started with wowFood, follow these steps:
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone [repository-url(https://github.com/AnaMarijaTofilovska/FinalProject.git)]`
 2. Navigate to the project directory: `cd wowFood`
 3. Open `index.html` in your preferred web browser.
 
