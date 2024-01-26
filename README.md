@@ -39,10 +39,6 @@ If you encounter any issues or bugs, please report them on our [Issue Tracker](h
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
-
-- Our development team for their hard work and dedication.
-- Asana for providing an efficient project management platform.
 
 Thank you for choosing wowFood! We hope you enjoy the culinary delights.
 
